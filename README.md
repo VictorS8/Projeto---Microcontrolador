@@ -18,3 +18,5 @@ Controle via Bluetooth a partir do app em Flutter com o ESP32 e controlando o Re
 [ESP32 Relay](https://esp32io.com/tutorials/esp32-relay)
 
 [ESP32 PROJETO CONTROLANDO UM RELÉ](https://www.usinainfo.com.br/blog/esp32-projeto-controlando-um-rele/)
+
+[Apostila ESP da disciplina - SANUsb e Professor Sandro Jucá](https://tinyurl.com/apostilaesp)
